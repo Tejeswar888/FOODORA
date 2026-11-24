@@ -1,15 +1,21 @@
 # FOODORA – Online Restaurant Food Ordering Website
 
 ## About the Project
-FOODORA is an online restaurant food ordering website that lets users browse food menus, search for items, and build an order summary. This project was chosen to gain practical experience in developing an interactive React.js application with reusable frontend components. Users can explore food categories, manage items in their shopping bag, update quantities, and view an order summary through a responsive and user-friendly interface.
+
+FOODORA is an online restaurant food ordering website that lets users browse food menus, search for items, and build an order summary. This project was chosen to gain practical experience in developing an interactive React.js application with reusable frontend components.
+
+Users can explore food categories, manage items in their shopping bag, update quantities, and view an order summary through a responsive and user-friendly interface.
 
 ## Live Website
+
 https://foodora-three.vercel.app/
 
 ## GitHub Repository
+
 https://github.com/Tejeswar888/FOODORA
 
 ## Technologies Used
+
 - React.js
 - JavaScript
 - HTML
@@ -18,6 +24,7 @@ https://github.com/Tejeswar888/FOODORA
 - Redux
 
 ## Features
+
 - Home page and navigation
 - Food menu and categories
 - Food search
@@ -31,6 +38,7 @@ https://github.com/Tejeswar888/FOODORA
 - Responsive design
 
 ## How to Use the Website
+
 1. Open the FOODORA website.
 2. Navigate to the Menu section.
 3. Browse food items.
@@ -42,21 +50,45 @@ https://github.com/Tejeswar888/FOODORA
 ## Running the Project Locally
 
 ### Requirements
-- Node.js
+
+- Node.js 14 or later
 - npm
-- Visual Studio Code
+- Visual Studio Code (recommended)
 
 ### Installation
+
 ```bash
 git clone https://github.com/Tejeswar888/FOODORA.git
-cd FOODORA
+cd FOODORA/"FOODORA – Online Restaurant Food Ordering Website"
 npm install
-npm run dev
+npm start
 ```
 
-Use the start command specified in package.json if the project does not use Vite.
+The application will start at `http://localhost:3000`.
+
+### Available Scripts
+
+Run these commands from the application directory:
+
+- `npm start` – starts the development server
+- `npm test` – runs the test suite in watch mode
+- `npm run build` – creates an optimized production build
+- `npm run eject` – ejects the Create React App configuration
+
+### Project Structure
+
+```text
+FOODORA/
+├── FOODORA – Online Restaurant Food Ordering Website/
+│   ├── public/
+│   ├── src/
+│   ├── firebase.json
+│   └── package.json
+└── README.md
+```
 
 ## My Role and Responsibilities
+
 - Team Leader
 - Frontend project coordination
 - Understanding and organizing project requirements
@@ -64,6 +96,7 @@ Use the start command specified in package.json if the project does not use Vite
 - Working with frontend components
 
 ## What I Learned
+
 - Understood the basic structure of a React.js application.
 - Learned about components and how they are used to organize a website.
 - Improved my knowledge of JavaScript, HTML, and CSS.
@@ -72,4 +105,5 @@ Use the start command specified in package.json if the project does not use Vite
 - Gained experience testing website pages and checking functionality.
 
 ## Conclusion
+
 FOODORA was a valuable learning project that helped me understand the development of an online food ordering website. Through this project, I explored frontend technologies and learned how different website components work together. It also helped me understand the importance of website design, navigation, and user experience.
