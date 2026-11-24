@@ -1,4 +1,3 @@
-
 # FOODORA – Online Restaurant Food Ordering Website
 
 ## About the Project
@@ -68,7 +67,12 @@ Use the start command specified in package.json if the project does not use Vite
 - Working with frontend components
 
 ## What I Learned
-Write about your experience with React.js, JavaScript, website layouts, components, and testing.
+- Understood the basic structure of a React.js application.
+- Learned about components and how they are used to organize a website.
+- Improved my knowledge of JavaScript, HTML, and CSS.
+- Understood how food items, shopping bags, and order summaries work.
+- Learned the importance of responsive design and user-friendly navigation.
+- Gained experience testing website pages and checking functionality.
 
 ## Conclusion
-Write what you learned from completing the FOODORA project.
+FOODORA was a valuable learning project that helped me understand the development of an online food ordering website. Through this project, I explored frontend technologies and learned how different website components work together. It also helped me understand the importance of website design, navigation, and user experience.
