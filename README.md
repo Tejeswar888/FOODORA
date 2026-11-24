@@ -1,9 +1,7 @@
 # FOODORA – Online Restaurant Food Ordering Website
 
 ## About the Project
-- What is FOODORA?
-- Why did you choose this project?
-- What can users do on the website?
+FOODORA is an online restaurant food ordering website that lets users browse food menus, search for items, and build an order summary. This project was chosen to gain practical experience in developing an interactive React.js application with reusable frontend components. Users can explore food categories, manage items in their shopping bag, update quantities, and view an order summary through a responsive and user-friendly interface.
 
 ## Live Website
 https://foodora-three.vercel.app/
