@@ -16,7 +16,6 @@ https://github.com/Tejeswar888/FOODORA
 - CSS
 - Bootstrap
 - Redux
-- Firebase-related dependencies (if applicable)
 
 ## Features
 - Home page and navigation
